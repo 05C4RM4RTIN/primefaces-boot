@@ -1,4 +1,4 @@
-package oscar_faces_boot.jsf;
+package oscar.faces.boot;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
