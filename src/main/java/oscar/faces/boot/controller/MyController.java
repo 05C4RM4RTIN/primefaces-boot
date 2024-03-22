@@ -1,8 +1,9 @@
 package oscar.faces.boot.controller;
-import org.springframework.web.bind.annotation.*;
+
+import org.springframework.web.bind.annotation.GetMapping;
 
 @RestController
-public class RestController {
+public class MyController {
 	
 
 	@GetMapping("/")
